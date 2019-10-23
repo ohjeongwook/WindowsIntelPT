@@ -14,7 +14,7 @@
 #include "Debug.h"
 #include "UndocNt.h"
 #include "IntelPtXSave.h"
-#include <hv.h>
+#include "hv.h"
 
 const LPTSTR g_lpDevName = L"\\Device\\WindowsIntelPtDev";
 const LPTSTR g_lpDosDevName = L"\\DosDevices\\WindowsIntelPtDev";

@@ -176,6 +176,7 @@
     <ClCompile Include="Debug.cpp" />
     <ClCompile Include="DriverEntry.cpp" />
     <ClCompile Include="DriverIo.cpp" />
+    <ClCompile Include="HyperV.cpp" />
     <ClCompile Include="IntelPt.cpp" />
     <ClCompile Include="IntelPtXSave.cpp" />
     <ClCompile Include="KernelTracing.cpp" />
